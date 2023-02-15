@@ -1,12 +1,12 @@
 #UServe
-#host, www.xxx.com, UServe
-#host-suffix, xxx.com, UServe
-#host-keyword, xxx, UServe
+#HOST,www.xxx.com,UServe
+#HOST-SUFFIX,xxx.com,UServe
+#HOST-KEYWORD,xxx,UServe
 
-host, chat.openai.com, UServe
-host-suffix, chat.openai.com, UServe
-host-keyword, openai, UServe
+HOST,chat.openai.com,UServe
+HOST-SUFFIX,chat.openai.com,UServe
+HOST-KEYWORD, openai, UServe
 
-host, www.textnow.com, UServe
-host-suffix, textnow.com, UServe
-host-keyword, openai, UServe
+HOST, www.textnow.com, UServe
+HOST-SUFFIX, textnow.com, UServe
+HOST-KEYWORD, openai, UServe
