@@ -3,3 +3,4 @@
 # HOST: 1
 # TOTAL: 1
 HOST,lens.l.google.com,GoogleVoice
+HOST,voice.telephony.goog,GoogleVoice
