@@ -4,26 +4,35 @@
 # HOST-SUFFIX,
 # HOST-KEYWORD,
 
+#nako
 HOST,nakonako.net
 HOST-SUFFIX,nakonako.net
 HOST-KEYWORD,nakonako
 
+#bluesea
 HOST,emby-pub1.blueseacdn.com
 HOST-SUFFIX,blueseacdn.com
 HOST-KEYWORD,blueseacdn
 
+#pornemby
 HOST,pornemby.club
 HOST-SUFFIX,pornemby.club
 HOST-KEYWORD,pornemby
 
+#misty
 HOST,misty.ltd
 HOST-SUFFIX,misty.ltd
 HOST-KEYWORD,misty
 
+#catfish
 HOST,catfishemby.club
 HOST-SUFFIX,catfishemby.club
 HOST-KEYWORD,catfishemby
 
+#
 HOST,emby.9191001.xyz
 HOST-SUFFIX,9191001.xyz
 HOST-KEYWORD,9191001
+
+#HXD
+HOST,emby.222921.xyz
