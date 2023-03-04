@@ -5,8 +5,9 @@
 
 HOST,chat.openai.com,UServe
 HOST-SUFFIX,chat.openai.com,UServe
-HOST-KEYWORD, openai, UServe
+HOST-KEYWORD,openai, UServe
 HOST,auth0.openai.com,UServe
+HOST-SUFFIX,openai.com,UServe
 
 HOST, www.textnow.com, UServe
 HOST-SUFFIX, textnow.com, UServe
