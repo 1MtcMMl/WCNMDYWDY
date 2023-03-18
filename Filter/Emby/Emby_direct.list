@@ -44,11 +44,9 @@ HOST-SUFFIX,infinityfly.top
 HOST-KEYWORD,infinityfly
 
 #studyfun
-HOST,zz.studyfun.live
-HOST,4837.studyfun.live
-HOST,9929.studyfun.live
+HOST,cdn.studyfun.live
+HOST,cdn1.studyfun.live
 HOST-SUFFIX,studyfun.live
-HOST-KEYWORD,studyfun
 
 #终点站
 HOST,pub1.emby.wtf
