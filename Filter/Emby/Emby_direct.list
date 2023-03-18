@@ -110,3 +110,9 @@ HOST-KEYWORD,the98
 HOST,nextfilm.nmg.llc
 HOST-SUFFIX,nmg.llc
 HOST-KEYWORD,nmg
+
+#Mulgore
+HOST,one.mulgore.net
+HOST,two.mulgore.net
+HOST-SUFFIX,mulgore.net
+HOST-KEYWORD,mulgore
