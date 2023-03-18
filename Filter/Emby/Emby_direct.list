@@ -116,3 +116,7 @@ HOST,one.mulgore.net
 HOST,two.mulgore.net
 HOST-SUFFIX,mulgore.net
 HOST-KEYWORD,mulgore
+
+#Singularity
+HOST,singularity.deja-vu.beauty
+
