@@ -46,7 +46,7 @@ HOST-KEYWORD,infinityfly
 #studyfun
 HOST,cdn.studyfun.live
 HOST,cdn1.studyfun.live
-HOST-SUFFIX,studyfun.live
+#HOST-SUFFIX,studyfun.live
 
 #终点站
 HOST,pub1.emby.wtf
