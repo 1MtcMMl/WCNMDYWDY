@@ -36,7 +36,9 @@ HOST-KEYWORD,9191001
 
 #HXD
 HOST,emby.222921.xyz
-HOST, bili.bili.rip
+HOST,bili.bili.rip
+HOST,emby.as174.de
+
 
 #orange
 HOST,cf.embytv.cf
@@ -49,3 +51,10 @@ HOST,cf.studyfun.live
 
 #Pilipili
 HOST,pilipili.emby77.org
+HOST,emby-direct.pilipiliultra.com
+
+#纸片人
+HOST,embyplus.org
+HOST-SUFFIX,embyplus.org
+
+
