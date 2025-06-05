@@ -8,6 +8,9 @@
 HOST,cc.ccemby.tk
 HOST-SUFFIX,ccemby.tk
 HOST-KEYWORD,ccemby
+HOST,cc.coemn.com
+HOST-SUFFIX,coemn.com
+HOST-KEYWORD,coemn
 
 #Moreemby
 HOST,moreemby.com
@@ -26,6 +29,8 @@ HOST,jp.embymv.tk
 HOST,us.embymv.tk
 HOST-SUFFIX,embymv.tk
 HOST-KEYWORD,embymv
+HOST,embymv.link
+HOST-SUFFIX,embymv.link
 
 #JMS
 HOST,cf.jmsooo.com
@@ -38,6 +43,8 @@ HOST,embyen.222921.xyz
 HOST,embysg.222921.xyz
 HOST,embyjp.222921.xyz
 HOST,usa.bili.rip
+HOST,hxd.as174.de
+
 
 #infinityfly
 HOST,infinityfly.top
@@ -62,6 +69,8 @@ HOST-SUFFIX,emby.wtf
 HOST,11.loseremby.org
 HOST-SUFFIX,loseremby.org
 HOST-KEYWORD,loseremby
+HOST,free.xmsl.org
+HOST-SUFFIX,xmsl.org
 
 HOST,cf.emby.ml
 HOST-SUFFIX,emby.ml
